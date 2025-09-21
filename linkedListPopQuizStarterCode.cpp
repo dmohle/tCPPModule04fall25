@@ -1,4 +1,4 @@
-// linkedListPopQuizSolution.cpp
+// linkedListPopQuizStarterCode.cpp
 // dH 9/20/25
 
 #include <iostream>
